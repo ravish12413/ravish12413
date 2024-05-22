@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about PHP,Laravel,SQL,ML,DSA
 - 📫 How to reach me: ravishss085@gmail.com
 - ⚡ Fun fact: First linkedln Verified skill which i got after giving test was PHP.
+  
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Cppl?style=flat&logo=cpp&color=61DAFB)
@@ -20,6 +21,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/PHP?style=flat&logo=PHP&color=CC342D)
 
+## 📈 GitHub Stats
 [![Ravish’s github stats](https://github-readme-stats.vercel.app/api?username=ravish12413)](https://github.com/ravish12413)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravish12413&layout=compact)](https://github.com/ravish12413)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=ravish12413)]()
