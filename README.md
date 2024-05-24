@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about PHP,Laravel,SQL,ML,DSA
 - 📫 How to reach me: ravishss085@gmail.com
 - ⚡ Fun fact: First linkedln Verified skill which i got after giving test was PHP.
-  
+![](https://komarev.com/ghpvc/?username=ravish12413)
 ## 💼 Technical Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
