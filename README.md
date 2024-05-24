@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: First linkedln Verified skill which i got after giving test was PHP.<br>
 <br>
     ![](https://komarev.com/ghpvc/?username=ravish12413)
+  
 ## 💼 Technical Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
