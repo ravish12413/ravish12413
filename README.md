@@ -6,13 +6,13 @@
 Here are some ideas to get you started:
 
 -->
-- 🔭 I’m currently working on a Project of Green Credit Management
+- 🔭 I’m currently working on a Project for Digital Business cards with NFC-enabled technology.
 - 🌱 I’m currently learning Node.js
-<!--   - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...  -->
-- 💬 Ask me about PHP,Laravel,SQL,ML,DSA
+- 👯 I’m looking to collaborate on expertise in Building ERP/CRM software.
+- 🤔 I’m looking for help with CRM software
+- 💬 Ask me about React,PHP,SQL,ML,DSA
 - 📫 How to reach me: ravishss085@gmail.com
-- ⚡ Fun fact: First linkedln Verified skill which i got after giving test was PHP.<br>
+- ⚡ Fun fact: I'm an Engineering Student but can debate over Geo Politics and Economics .<br>
 <br>![](https://komarev.com/ghpvc/?username=ravish12413&label=PROFILE+VIEWS)
   
 ## 💼 Technical Skills
